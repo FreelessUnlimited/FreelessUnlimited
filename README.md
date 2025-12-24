@@ -19,4 +19,4 @@ src="https://img.shields.io/github/followers/FreelessUnlimited?logo=github&style
 
 <b>My GitHub Stats</b>
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={FreelessUnlimited}&theme={transparent}
+(http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FreelessUnlimited)
