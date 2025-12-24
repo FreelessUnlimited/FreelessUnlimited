@@ -19,4 +19,4 @@ src="https://img.shields.io/github/followers/FreelessUnlimited?logo=github&style
 
 <b>My GitHub Stats</b>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FreelessUnlimited)](https://github.com/FreelessUnlimited/github-readme-stats)
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={FreelessUnlimited}&theme={transparent}
