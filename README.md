@@ -19,4 +19,4 @@ src="https://img.shields.io/github/followers/FreelessUnlimited?logo=github&style
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/FreelessUnlimited"><img src="https://github-readme-stats.vercel.app/api?username=FreelessUnlimited&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="FreelessUnlimited's GitHub stats" /></a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FreelessUnlimited)](https://github.com/FreelessUnlimited/github-readme-stats)
