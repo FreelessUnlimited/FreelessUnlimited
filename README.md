@@ -1,3 +1,5 @@
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hey, seems my banner isn't working. Hmm.... 🤔" src="./github-banner.png" /></a></p>
+
 # 💫 About Me:
 🔭 I’m currently working on an open-source blog website.<br>🌱 I’m currently learning Python, Lua, HTML 5, CSS, JavaScript<br>⚡ Fun fact, I was inspired to start coding after watching a speed code video!
 
